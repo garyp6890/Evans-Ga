@@ -1,0 +1,4 @@
+Scenario,Annual_Revenue,Annual_Expenses,Net_Profit,Profit_Margin,Break_Even_Timeline
+Client Optimistic,850000,480000,370000,43.5,12 months
+Client Conservative,600000,450000,150000,25.0,18 months
+Body Blow Digital Analysis,625000,475000,150000,24.0,24 months
